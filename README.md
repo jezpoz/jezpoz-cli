@@ -5,7 +5,7 @@ Jezpozs&#39; tools in a cli
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/jezpoz-cli.svg)](https://npmjs.org/package/jezpoz-cli)
-[![CircleCI](https://circleci.com/gh/jezpoz/jezpoz-cli/tree/master.svg?style=shield)](https://circleci.com/gh/jezpoz/jezpoz-cli/tree/master)
+[![CircleCI](https://circleci.com/gh/jezpoz/jezpoz-cli/tree/master.svg?style=shield)](https://circleci.com/gh/jezpoz/jezpoz-cli/tree/main)
 [![Downloads/week](https://img.shields.io/npm/dw/jezpoz-cli.svg)](https://npmjs.org/package/jezpoz-cli)
 [![License](https://img.shields.io/npm/l/jezpoz-cli.svg)](https://github.com/jezpoz/jezpoz-cli/blob/master/package.json)
 
